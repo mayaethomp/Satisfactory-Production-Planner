@@ -5,7 +5,7 @@ import java.util.Objects;
 /**
  * Represents a distinct item or material in the production system
  * 
- * <p>
+ * 
  * An {@code Item} is a core domain concept that models anything that can be produced, consumed, or used as an ingredient in a recipe.
  * Items are immutable and uniquely identified by their name. 
  * </p>
